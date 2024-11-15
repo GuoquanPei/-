@@ -19,7 +19,7 @@
 - **花瓣宽度 (petal width)**: 测量花瓣的宽度（单位：厘米）
 
 ### 目标变量
-- **鸢尾花品种 (species)**: 鸢尾花的种类，包括 `setosa`、`versicolor` 和 `virginica`。在本项目中，目标变量主要是 **花萼宽度 (sepal width)** 和 **花瓣宽度 (petal width)**，作为回归模型的输出变量。
+- **鸢尾花品种 (species)**: 鸢尾花的种类，包括 `setosa`、`versicolor` 和 `virginica`。
 
 ### 环境配置
 pip install -r requirements.txt
